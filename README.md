@@ -5,7 +5,7 @@ This is a telegram bot that manages a simple checklist,
 to add items to the checklist you need to send a message like "/checklist_add item1" 
 to delete an item from the list you need to send the message "/checklist_delete item1"
 
-it will delete that matches with the substring given, so you need to match as much of the string as possible or it will delete several items.
+it will delete all that matches with the substring given, so you need to match as much of the string as possible or it will delete several items.
 
 to show the checklist you need to send the command "/checklist"
 
