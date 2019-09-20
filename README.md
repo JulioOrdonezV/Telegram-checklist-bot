@@ -11,8 +11,8 @@ to show the checklist you need to send the command "/checklist"
 
 # Installation
 
-use composer to install the slim framework
-composer require slim/slim
-copy the index php file to the directory you just installed slim
-use the botfather to create your bot, get the API key and inserted in the code
-also you need to setup your bot's webhook to point to your web service
+use composer to install the slim framework\\
+composer require slim/slim\\
+copy the index php file to the directory where you just installed slim\\
+use the botfather to create your bot, get the API key and inserted in the code\\
+also you need to setup your bot's webhook to point to your web service\\
